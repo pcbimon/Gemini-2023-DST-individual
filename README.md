@@ -1,4 +1,4 @@
-# Gemini-2023-DST
+# Gemini-2023-DST-individual
 This is a repository for the Gemini project for the ITDS361 Software Design and Development class.
 
 ## To-Be Use Case Diagram
