@@ -3,6 +3,7 @@ public class Customer extends Person {
     private int membershipLevel;
 
     public Customer() {
+        this.customerID = 0;
     }
 
     public Customer(String name, String address, String phone, int customerID, int membershipLevel) {
